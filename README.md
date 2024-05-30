@@ -3,6 +3,7 @@
 A dynamic Flutter app for real-time painting with customizable brush settings and an intuitive UI.
 
 
+
 ## Features
 
 - **Customizable Brush Settings**: Adjust brush color and size to fit your artistic needs.
@@ -14,9 +15,8 @@ A dynamic Flutter app for real-time painting with customizable brush settings an
 ## Screenshots
 
 <p align="start">
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/a5bead64-8bae-4fe1-9247-8a98d86758c3" alt="Sunflower 1" width="250"/>
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bed29dc9-b0bd-435f-a57f-d6e69bdea2fc" alt="Sunflower 2" width="250"/>
-  <img src="https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/4f9acb61-356c-4ad2-a5d3-64966296d9e1" alt="Sunflower 3" width="250"/>
+  <img src="https://github.com/Saad-Rajpoot/LivePaintingApp/assets/72617801/610996dd-1692-4f06-91a2-4ecf30c524d0" alt="Live 1" width="320"/>
+  <img src="[https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bed29dc9-b0bd-435f-a57f-d6e69bdea2fc](https://github.com/Saad-Rajpoot/LivePaintingApp/assets/72617801/b848db1f-d2e8-41bb-99ba-0a54db587fcf)" alt="Live 2" width="320"/>
 </p>
 
 
