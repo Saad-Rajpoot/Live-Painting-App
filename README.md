@@ -16,7 +16,7 @@ A dynamic Flutter app for real-time painting with customizable brush settings an
 
 <p align="start">
   <img src="https://github.com/Saad-Rajpoot/LivePaintingApp/assets/72617801/610996dd-1692-4f06-91a2-4ecf30c524d0" alt="Live 1" width="320"/>
-  <img src="[https://github.com/Saad-Rajpoot/Sunflower/assets/72617801/bed29dc9-b0bd-435f-a57f-d6e69bdea2fc](https://github.com/Saad-Rajpoot/LivePaintingApp/assets/72617801/b848db1f-d2e8-41bb-99ba-0a54db587fcf)" alt="Live 2" width="320"/>
+  <img src="https://github.com/Saad-Rajpoot/LivePaintingApp/assets/72617801/b848db1f-d2e8-41bb-99ba-0a54db587fcf" alt="Live 2" width="320"/>
 </p>
 
 
@@ -34,6 +34,9 @@ A dynamic Flutter app for real-time painting with customizable brush settings an
 3. Run the app::
    ```bash
    flutter run
+
+
+### This setup should give you a good starting point for your live painting app. You can expand on it by adding more features, improving the UI, and handling additional user interactions.
 
 
 ## Usage
@@ -57,9 +60,6 @@ A dynamic Flutter app for real-time painting with customizable brush settings an
 #### State Management
 
 - The app uses ChangeNotifier and ValueNotifier to manage the state of the brush settings and the lines being drawn. This ensures that the UI updates efficiently without unnecessary rebuilds.
-
-
-##### This setup should give you a good starting point for your live painting app. You can expand on it by adding more features, improving the UI, and handling additional user interactions.
 
 
 ## Contributing
