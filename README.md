@@ -36,7 +36,7 @@ A dynamic Flutter app for real-time painting with customizable brush settings an
    flutter run
 
 
-### This setup should give you a good starting point for your live painting app. You can expand on it by adding more features, improving the UI, and handling additional user interactions.
+#### This setup should give you a good starting point for your live painting app. You can expand on it by adding more features, improving the UI, and handling additional user interactions.
 
 
 ## Usage
